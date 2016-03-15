@@ -1,5 +1,4 @@
 package com.chrisali.stattools;
-import com.chrisali.stattools.*;
 import com.chrisali.stattools.goodnessoffit.ChiSquare;
 
 public class StatToolTest {
